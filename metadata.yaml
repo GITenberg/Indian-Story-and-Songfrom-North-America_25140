@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4785
     wikipedia: http://en.wikipedia.org/wiki/Alice_Cunningham_Fletcher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25140#Indian-Story-and-Songfrom-North-America
 gutenberg_bookshelf:
 - Native America
 - Music
